@@ -1,11 +1,13 @@
 # Ignore data files in the data directory
 data/
+data
 
 # Ignore PyCharm Python project config files
 .idea/
 
-# Ignore Python compiler generated files
+# Ignore Python compiler and notebook generated files
 .pyc
+.ipynb_checkpoints/
 
 # Ignore save files
 save/
