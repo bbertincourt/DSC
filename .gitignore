@@ -1,0 +1,14 @@
+# Ignore data files in the data directory
+data/
+
+# Ignore PyCharm Python project config files
+.idea/
+
+# Ignore Python compiler generated files
+.pyc
+
+# Ignore save files
+save/
+
+# Ignore temporary text editor files
+*~
