@@ -2,6 +2,9 @@
 data/
 data
 
+# Ignore iterate.dat files
+iterate.dat
+
 # Ignore PyCharm Python project config files
 .idea/
 
